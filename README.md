@@ -1,1 +1,1 @@
-# Ac-stica-computacional-con-Python
+# Acustica-computacional-con-Python
