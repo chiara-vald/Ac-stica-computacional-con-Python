@@ -10,7 +10,7 @@ En el siguiente cuadernillo de jupyter notebook se presentará una comparación 
 5. Normalización del audio mediante "Z-score Normalization"
 6. Conclusiones
 
-##Bibliografía:
+## Bibliografía:
 +>https://www.codecademy.com/articles/normalization
 +>https://superkogito.github.io/blog/rmsnormalization.html
 +>https://stackoverflow.com/questions/42492246/how-to-normalize-the-volume-of-an-audio-file-in-python
