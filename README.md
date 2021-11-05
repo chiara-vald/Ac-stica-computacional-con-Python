@@ -1,8 +1,8 @@
 # Acustica-computacional-con-Python
 
-##Descripción:
+## Descripción:
 En el siguiente cuadernillo de jupyter notebook se presentará una comparación de diferentes tipos de normalizaciones que se pueden aplicar a una señal de audio. Estas fueron programadas con python, se grafiacaron los ressultados, para finalmente llegar a una conclusión que compara los distintos métodos de normalización utilizados.
-##Contenidos:
+## Contenidos:
 +> Análisis de un audio mediante python de manera visual y de valores máximos, mínimos y medio.
 +> Normalización del audio mediante "Peak Normalization"
 +> Normalización del audio mediante "MinMax Normalization"
